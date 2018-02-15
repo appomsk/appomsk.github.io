@@ -1,2 +1,2 @@
 # appomsk.github.io
-Блог о терминале
+Nothing is here
