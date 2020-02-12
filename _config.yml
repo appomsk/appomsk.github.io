@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 title: 𝕻𝖊𝖓𝖘𝖊𝖊𝖘
 email: appomsk@gmail.com
+author: Андрей Панченко
 description: >- # this means to ignore newlines until "baseurl:"
     Разные, посещающие меня мысли. Пишу просто так. В никуда.
 baseurl: "" # the subpath of your site, e.g. /blog
