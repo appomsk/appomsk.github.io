@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Scientific American 2020-12
+title:  Scientific American 2019-12
 date:   2020-02-12 23:09:45 +03
-tags:   
+tags:   outline 
 ---
 
 ## Automating History
