@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Почему летают самолеты
+title:  Scientific American 2019-02
 date:   2020-02-12 21:02:32 +03
 tags:   
 ---
