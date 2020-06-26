@@ -309,7 +309,7 @@ On the road with rodents
 
 Научили крыс водить автомобили. Вот же, блин. С жиру бесяться.
 
-## Scientific American 2019-02
+## Scientific American 2020-02
 
 Давным-давно я где-то читал, что ученые на самом деле не понимают, почему самолеты летают. И вот попалась большая статья на эту тему в февральском номере Scientific American за 2020 год - The Enigma of aero с подзаголовком "No one can completely explain why planes stay in the air".
 
